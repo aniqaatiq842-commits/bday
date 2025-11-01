@@ -82,7 +82,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- TITLE ---
-st.markdown("<h1 class='main-title'>🎉 Happy Birthday, My Friend! 🎂</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='main-title'>🎉 Happy Birthday, Amtual Aala Tooba! 🎂</h1>", unsafe_allow_html=True)
 st.markdown("<h3 class='subtitle'>Wishing you laughter, joy, and the brightest smiles today 💫</h3>", unsafe_allow_html=True)
 
 # --- EMBED IMAGE AS BASE64 ---
@@ -97,19 +97,19 @@ except Exception as e:
 
 # --- MESSAGE SECTION ---
 st.markdown("---")
-st.markdown("## 💌 A Note Just for You")
+st.markdown("## 💌 A Note Just for You AALA")
 st.markdown("""
 <div class="message">
 Hey there! 🎈  
-You’ve been such a kind and wonderful person — someone who makes ordinary days feel brighter 🌸  
-I’m really happy to have a friend like you 💕  
+You’ve been such a kind and wonderful person — someone who makes ordinary days feel brighter for everyone🌸  
+I’m really happy to have a junior like you 💕  
 May your birthday be full of smiles, laughter, and beautiful little surprises 🎂  
 Here’s to another amazing year ahead — keep shining, keep smiling, and keep being *you*! ✨  
 </div>
 """, unsafe_allow_html=True)
 
 st.markdown("---")
-st.info("“Good friends are like stars — you don’t always see them, but you know they’re always there.” 🌟")
+st.info("“Good people are like stars — you don’t always see them, but you know they’re always there.” 🌟")
 
 st.markdown("---")
 
@@ -128,7 +128,7 @@ if st.button("🎁 Click for a Little Surprise!"):
         </audio>
         """
         st.markdown(music_html, unsafe_allow_html=True)
-        st.markdown("### 🎶 Music is playing... enjoy the birthday vibe 💕")
+        st.markdown("### 🎶A special Music is playing... enjoy the birthday vibe 💕")
     except Exception as e:
         st.error(f"Couldn't load music 😢: {e}")
 
